@@ -21,4 +21,4 @@
 # 最后说明
 感谢大家的支持，希望大家多给给star，十分感谢您对Light Client的支持<br>
 最后奉上演示图片(非最新版)<br>
-<img src = 'https://s3.bmp.ovh/imgs/2022/01/871e0aaf2e6f280d.jpg' />
+<img src="https://s4.ax1x.com/2022/01/01/T53b0P.jpg" alt="T53b0P.jpg" border="0" />
